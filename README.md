@@ -1,5 +1,5 @@
 # Brain-Computer Interfaces - Machine Learning
-> "Deep Learning"  
+> "Deep Learning" Workshop  
 
 <div style="text-align:center"><img src="Introduction_EEG_BCI_slides/Workshop_Chula/Slide1.PNG" width="800"/></div>
 
