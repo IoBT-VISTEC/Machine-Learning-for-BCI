@@ -23,4 +23,4 @@ You wil need to create **3 blank directories** that are use in this workshop
 - simple_model_weights
 - weights
 
-### Datasets [here](https://www.dropbox.com/sh/m0vfs56y5i5e6f4/AADp6dawIAzOEK_Mdb3tVfN0a?dl=0)
+### Datasets [here](https://www.dropbox.com/sh/dz9g9e1qxtjnitx/AADiNTw9EHW-JMno_WpqTQnba?dl=0)
