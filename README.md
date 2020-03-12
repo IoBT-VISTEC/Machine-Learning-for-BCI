@@ -2,16 +2,16 @@
 > "Deep Learning" Workshop  
 
 <div style="text-align:center"><img src="Introduction_EEG_BCI_slides/Workshop_Chula/Slide1.PNG" width="800"/></div>
-
+---
 <div style="text-align:center"><img src="Introduction_EEG_BCI_slides/Workshop_Chula/Slide2.PNG" width="800"/></div>
-
+---
 <div style="text-align:center"><img src="Introduction_EEG_BCI_slides/Workshop_Chula/Slide3.PNG" width="800"/></div>
-
+---
 <div style="text-align:center"><img src="Introduction_EEG_BCI_slides/Workshop_Chula/Slide4.PNG" width="800"/></div>
-
+---
 <div style="text-align:center"><img src="Introduction_EEG_BCI_slides/Workshop_Chula/Slide5.PNG" width="800"/></div>
 
-## How to Get start
+## Let's get start
 
 Follow the instruction in each **LAB** files.  
 The Answers are also in the **"Answer_workshop"** directory
@@ -22,3 +22,5 @@ You wil need to create **3 blank directories** that are use in this workshop
 - 3DCNN_weights
 - simple_model_weights
 - weights
+
+### Datasets [here](https://www.dropbox.com/sh/m0vfs56y5i5e6f4/AADp6dawIAzOEK_Mdb3tVfN0a?dl=0)
