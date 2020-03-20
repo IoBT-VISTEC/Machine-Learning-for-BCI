@@ -21,12 +21,12 @@
 
 ## Let's get start
 
-Follow the instruction in each **LAB** files.  
+Follow the instruction in each **LAB** file.  
 The Answers are also in the **"Answer_workshop"** directory
 
 ### Important
 
-You wil need to create **3 blank directories** that are use in this workshop
+You will need to create **3 blank directories** that are used in this workshop
 - 3DCNN_weights
 - simple_model_weights
 - weights
